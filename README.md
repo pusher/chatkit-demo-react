@@ -1,9 +1,9 @@
-# Chatkit getting started react
+# Chatkit React SDK Demo
 
-This is a sample project that accompanies the [Creating one-to-one chat with
-React guide](https://pusher.com/docs/chatkit/guides/react-one-to-one).
+Demo application for the [Chatkit React SDK](https://pusher.com/docs/chatkit/reference/react)
 
 Install dependencies and start the app with
-
+```bash
     yarn
     yarn start
+```
